@@ -1,0 +1,66 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+}
+body,a,span,p{
+    font-size: 14px;
+    font-weight: 500;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+header .collapse ul li a{
+    font-size: 15px;
+}
+/* banner css  */
+.banner-section{
+    background-color: #f9f9ff;
+    height: 500px;
+    width: auto;
+}
+.banner-section .banner-text{
+    margin-top: 130px;
+}
+.banner-section .banner-text .btn{
+    background-color: #8490ff;
+    color: #fff;
+}
+.banner-section .banner-img{
+    width: 394px;
+    height: auto;
+}
+/* about css  */
+.about-section .about-img{
+    width: 510px;
+    height: auto;
+}
+.about-section .btn{
+    background-color: #8490ff;
+    color: #fff;
+}
+/* counter css  */
+.counter-section{
+    background-color: #8490ff;
+}
+/* price section css  */
+.price-section{
+    background-color: #f9f9ff;
+}
+/* .profile-section css  */
+.profile-section .table .table-header img{
+    position: relative;
+    width: 90px;
+    margin-top: -70px;
+    margin-left: -135px;
+}
+/* input section css  */
+.input-section{
+    background-color: #f9f9ff;
+}
+.input-section .input-btn button{
+    background-color: #17a2b8;
+    color: #fff;
+}
+footer{
+    background-color: #04091e;
+}
