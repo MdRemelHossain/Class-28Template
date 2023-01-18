@@ -25,15 +25,7 @@ header .collapse ul li a{
     background-color: #8490ff;
     color: #fff;
 }
-.banner-section .banner-img{
-    width: 394px;
-    height: auto;
-}
 /* about css  */
-.about-section .about-img{
-    width: 510px;
-    height: auto;
-}
 .about-section .btn{
     background-color: #8490ff;
     color: #fff;
@@ -49,8 +41,8 @@ header .collapse ul li a{
 /* .profile-section css  */
 .profile-section .table .table-header img{
     position: relative;
-    width: 90px;
-    margin-top: -70px;
+    width: 80px;
+    margin-top: -60px;
     margin-left: -135px;
 }
 /* input section css  */
