@@ -15,7 +15,7 @@ header .collapse ul li a{
 /* banner css  */
 .banner-section{
     background-color: #f9f9ff;
-    height: 500px;
+    height: auto;
     width: auto;
 }
 .banner-section .banner-text{
